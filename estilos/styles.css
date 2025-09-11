@@ -26,6 +26,7 @@ section#telefone{
     width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat;
     background-size: cover;
+    
 }
 iframe#tela{
 position: relative;

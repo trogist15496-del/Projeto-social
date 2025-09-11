@@ -1,0 +1,14 @@
+@media screen and (max-width:600px) {
+   section#redes-sociais {
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between;
+    display: inline-flex;
+    width: 100vw;
+    transition-duration: 2s;
+   }
+   main{
+    display: flex;
+    
+   }
+}
